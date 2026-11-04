@@ -1,5 +1,10 @@
 # Wanderly Travel Booking — PHP Starter
 
+For test-
+
+User- admin
+Pass- adminadmin
+
 A responsive travel discovery / booking-inquiry website built with **PHP, MySQL, HTML, CSS and vanilla JavaScript**. It includes community trip submissions and a WordPress-inspired admin dashboard.
 
 ## Features
